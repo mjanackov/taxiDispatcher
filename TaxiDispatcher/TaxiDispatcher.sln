@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxiDispatcher.App", "TaxiDispatcher.App\TaxiDispatcher.App.csproj", "{7C6332F4-4739-4F10-AA74-D5C4A9C342F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxiDispatcher.Client", "TaxiDispatcher.Client\TaxiDispatcher.Client.csproj", "{14F48E4D-4692-4C47-96CE-6F1B92E7F06A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{51E17508-23C7-4CEC-9678-77A673CE00BD}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.txt = Readme.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C6332F4-4739-4F10-AA74-D5C4A9C342F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C6332F4-4739-4F10-AA74-D5C4A9C342F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C6332F4-4739-4F10-AA74-D5C4A9C342F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C6332F4-4739-4F10-AA74-D5C4A9C342F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14F48E4D-4692-4C47-96CE-6F1B92E7F06A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14F48E4D-4692-4C47-96CE-6F1B92E7F06A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14F48E4D-4692-4C47-96CE-6F1B92E7F06A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14F48E4D-4692-4C47-96CE-6F1B92E7F06A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE7ADC6C-CE1F-456B-8A86-E3376D9072BA}
+	EndGlobalSection
+EndGlobal
